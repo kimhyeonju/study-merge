@@ -4,4 +4,7 @@ main
 
 
 feature
+<<<<<<< HEAD
+>>>>>>> feature
+=======
 >>>>>>> feature
