@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 main
+=======
+
+
+feature
+>>>>>>> feature
